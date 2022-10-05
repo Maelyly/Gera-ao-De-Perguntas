@@ -1,2 +1,2 @@
-# Gera-ao-De-Perguntas
+# Geracao-De-Perguntas
 Projeto para as cadeiras de Machine Learning e Text Mining para geração de perguntas
